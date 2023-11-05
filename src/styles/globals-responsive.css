@@ -1,0 +1,16 @@
+@media (min-width:1400px) and (max-width:1599.99px)
+{
+	 .slider-content .brand-name {
+        font-size: 170px;
+}
+}
+@media (min-width:1200px) and (max-width:1399.99px)
+{
+
+	 footer .newsletter .title {
+    font-size: 20px;
+	 }
+	 .slider-content .brand-name {
+        font-size: 127px;
+}
+}
